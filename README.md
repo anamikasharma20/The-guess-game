@@ -42,7 +42,7 @@ The game provides hints after every incorrect guess, helping the player determin
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-link>
+git clone <(https://github.com/anamikasharma20/The-guess-game/blob/main/main.py)>
 ```
 
 ### 2. Navigate to the project folder
